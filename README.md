@@ -49,6 +49,7 @@ Applications and Use Cases of this chat application include:
 
 OUTPUT
 <img width="1819" height="185" alt="Image" src="https://github.com/user-attachments/assets/edfa0d0c-4e9f-4428-ac6b-4693e316c96b" />
+<img width="1383" height="119" alt="Image" src="https://github.com/user-attachments/assets/e4191db1-8366-4029-9b94-098deefd7ec4" />
 
 
 
