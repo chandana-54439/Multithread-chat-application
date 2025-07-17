@@ -48,7 +48,6 @@ Applications and Use Cases of this chat application include:
 💬 Text-based chat for games or developer collaboration tools
 
 OUTPUT
-<img width="1920" height="640" alt="Image" src="https://github.com/user-attachments/assets/a0d925e1-2ac3-4238-a233-d8b90992ac1a" />
-<img width="1493" height="216" alt="Image" src="https://github.com/user-attachments/assets/183c6add-c28f-4cfe-9a49-be8d09f1baee" />
+
 
 
